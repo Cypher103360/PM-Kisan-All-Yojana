@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "75337304706",
+    "project_id": "pm-kisan-all-yojana",
+    "storage_bucket": "pm-kisan-all-yojana.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:75337304706:android:e98a1fbe90decbe073429b",
+        "android_client_info": {
+          "package_name": "com.pmkisan.allyojana"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "75337304706-pml3jogp5bu65g2jdq83t01uthp41j0e.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.pmkisan.allyojana",
+            "certificate_hash": "9244fe79748cc6bc570856a9ebd14218ba98155e"
+          }
+        },
+        {
+          "client_id": "75337304706-ip6to2u8ftiab9ac6audqcvicrn6vikg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB7yc4VhbqTmiYWtMRc05_5DSKzGAyKYX0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "75337304706-ip6to2u8ftiab9ac6audqcvicrn6vikg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
